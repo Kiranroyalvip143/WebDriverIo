@@ -1,0 +1,41 @@
+{
+  "id": {
+    "sessionId": "87347bd71ae72bfef5042bad9212ad16",
+    "elementId": "92b5967e-0484-4a09-bed1-0fda67982c3e",
+    "element-6066-11e4-a52e-4f735466cecf": "92b5967e-0484-4a09-bed1-0fda67982c3e",
+    "selector": "[id='courses-iframe']",
+    "parent": {
+      "sessionId": "87347bd71ae72bfef5042bad9212ad16",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "111.0.5563.64",
+        "chrome": {
+          "chromedriverVersion": "111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995})",
+          "userDataDir": "/var/folders/3_/wh51kb951t7db1mxlwnp141h0000gn/T/.com.google.Chrome.hZKvPn"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:58103"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "mac os x",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false
+  }
+}
